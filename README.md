@@ -1,4 +1,4 @@
-# ACCA: Approximate Classifiers with Controlled Accuracy
+Approximate Classifiers with Controlled Accuracy
 This repository contains a code to reproduce the experimental evaluation for "ACCA: Approximate Classifiers with Controlled Accuracy".
 
 ## Run and compile: 
